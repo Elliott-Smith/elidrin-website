@@ -9,8 +9,8 @@ const IndexPage = () => (
   <Layout>
     <SEO title="Home" />
     <h1>Privacy Policy</h1>
-    <pre>
-    1. We respect your privacy
+    <p>
+    1. We respect your privacy <br/>
     1.1. Elidrin respects your right to privacy and is committed to safeguarding the privacy
     of our customers and software application users. We adhere to the National Privacy
     Principles established by the Privacy Act 1988 (Cth). This policy sets out how we collect
@@ -44,7 +44,7 @@ const IndexPage = () => (
     We cannot ensure the security of any information you choose to make public in a social
     media feature. Also, we cannot ensure that parties who have access to such publicly
     available information will respect your privacy.
-    </pre>
+    </p>
   </Layout>
 )
 
