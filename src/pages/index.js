@@ -142,7 +142,7 @@ const IndexPage = () => (
     technology) to determine your current location in order to determine the city you are
     located within and display a location map with relevant advertisements. We will not share
     your current location with other users or partners. <br/> <br/> 
-    14th May 2019
+    Published 20th May 2019, Made with LawPath.
     </p>
   </Layout>
 )
